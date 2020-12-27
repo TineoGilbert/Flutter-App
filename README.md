@@ -1,1 +1,21 @@
-<p align="center"> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.expertsoftwareteam.com%2Fhow-to-change-launcher-icon-in-flutter%2F&psig=AOvVaw0c65cpjhf1J5n08uORAjo9&ust=1609191884774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiT046R7-0CFQAAAAAdAAAAABAD"></a> </p>
+# FLUTTER APP
+
+
+Aplicación básica creada con Flutter, en donde le permite al usuario poder interactuar con la aplicación a través de 3 apartados: Un Login, navegar en varias vista, y por último poder incertar alguna que otra información o experiencia como se le ha denominado en principio. 
+
+La aplicación cuenta con un mapa en donde le permitirá al usuario poder saber su ubicación actual, y poder encontrar otra referencia a alguna dirección diferente a la actual.
+
+## Herramientas y Tecnologías Utilizadas
+
+- Android Studio
+- Flutter
+- Dart
+
+
+![](assets/cap4.png)
+
+![](assets/cap3.png)
+
+![](assets/cap2.png)
+
+![](assets/cap1.png)
