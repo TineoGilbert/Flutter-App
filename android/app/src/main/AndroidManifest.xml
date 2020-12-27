@@ -13,7 +13,7 @@
         android:label="travelapp1"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCZUdv_XxJ5n1wIZdQIqiknpa17An4is38"/>
+            android:value="YOUR API KEY HERE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
